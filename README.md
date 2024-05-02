@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Assalamu+Alaikum)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
 <a> Contract <a>
