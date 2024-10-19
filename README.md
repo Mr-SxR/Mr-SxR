@@ -17,10 +17,10 @@
 
 <h3 align="left">My Projects:</h3>
 
-- ðŸ“‚ **[DUMP REPOSITORY](https://github.com/Mr-SxR/SxR_DUMP)**: Short description about what this repo does.
-- ðŸ“‚ **[Repo Name 2](https://github.com/Mr-SxR/repo-name-2)**: Short description about what this repo does.
-- ðŸ“‚ **[Repo Name 3](https://github.com/Mr-SxR/repo-name-3)**: Short description about what this repo does.
-- ðŸ“‚ **[Repo Name 4](https://github.com/Mr-SxR/repo-name-4)**: Short description about what this repo does.
+- 📂 **[DUMP TOOL](https://github.com/Mr-SxR/SxR_DUMP)**: Short description about what this repo does.
+- 📂 **[SxR CLONE TOOL](https://github.com/Mr-SxR/Mr.SxR)**: Short description about what this repo does.
+- 📂 **[Repo Name 3](https://github.com/Mr-SxR/repo-name-3)**: Short description about what this repo does.
+- 📂 **[Repo Name 4](https://github.com/Mr-SxR/repo-name-4)**: Short description about what this repo does.
 
 <h3 align="left">More Repositories:</h3>
 <p><a href="https://github.com/Mr-SxR?tab=repositories" target="_blank">Click here to see all repositories</a></p>
