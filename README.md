@@ -11,7 +11,7 @@
   <a href="https://wa.me/8801858094178" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" width="40" height="40" />
   </a>
-  <a href="https://t.me/masudurrahmansifat" target="_blank">
+  <a href="https://t.me/sifathub" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram" width="40" height="40" />
   </a>
 </p>
