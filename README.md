@@ -103,6 +103,8 @@ I believe in writing software that doesn't just work, but works consistently and
 All my software projects are published under the **Mr-SxR** brand.  
 **SxR** stands for **Speciality & Reliability** — a commitment to building tools that are both exceptional in quality and dependable in performance.
 
+> 📂 Want to know more about me? → **[Visit My Personal Repository](https://github.com/MasudurRahmanSifat/MasudurRahmanSifat)**
+
 ---
 
 ## 📬 Connect with Me
