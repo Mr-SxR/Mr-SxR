@@ -74,30 +74,6 @@ I believe in writing software that doesn't just work, but works consistently and
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-sxr&theme=tokyonight" width="32%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-sxr&theme=tokyonight" width="32%" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-sxr&theme=tokyonight" width="32%" alt="Top Languages by Commit"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-sxr&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-sxr&theme=tokyonight" width="65%" alt="Profile Details"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-sxr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily" width="70%" alt="GitHub Streak"/>
-</div>
-
-
----
-
 ## 🏢 Mr-SxR — Speciality & Reliability
 
 All my software projects are published under the **Mr-SxR** brand.  
