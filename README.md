@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="130" align="center" valign="middle">
-      <img src="./assets/masudur-rahman-sifat-2.jpg" alt="Masudur Rahman Sifat - Software Developer from Bangladesh" width="110" height="110" style="border-radius: 12px;" />
+      <img src="./assets/masudur-rahman-sifat-2.png" alt="Masudur Rahman Sifat - Software Developer from Bangladesh" width="110" height="110" />
     </td>
     <td>
       I'm a <b>Python developer</b> from Bangladesh 🇧🇩, operating under the brand <b>Mr-SxR</b> which stands for <b>Speciality & Reliability</b>. My core focus is building reliable automation tools, desktop software, and reverse engineering (Android APKs, Windows apps & network protocols). I also explore AI manipulation, jailbreak research, and full-stack web development.
